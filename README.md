@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Carlos Ardila 👋👨‍💻
 
+Jr web developer, Passionate about the web world. I am a proactive person, with an innovative style, continuous learning.
+I have knowledge in: React.Js, Node.js, Express, MongoDB, HTML, CSS, Bootstrap, Git and GitHub, API-REST
+
+```jS
+const Cardila0916 = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React Js, Node Js, Express Js, MongoDB],
+}
+```
 <!--
 **Cardila0916/Cardila0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
