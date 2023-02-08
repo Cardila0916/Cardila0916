@@ -5,6 +5,7 @@ I have knowledge in: React.Js, Node.js, Express, MongoDB, HTML, CSS, Bootstrap, 
 
 ```jS
 const Cardila0916 = {
+  pronouns: "he" | "hir",
   code: [Javascript, HTML, CSS],
   tools: [React Js, Node Js, Express Js, MongoDB],
 }
